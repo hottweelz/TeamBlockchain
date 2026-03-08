@@ -1,7 +1,4 @@
 ---
-title: "Digital assets: accelerating adoption under the hood "
----
----
 title: "Digital assets: accelerating adoption under the hood ‚Äì LLM Synopsis"
 date: 2024-06-04
 source: https://digitalbytes.substack.com/p/digital-assets-accelerating-adoption
