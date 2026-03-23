@@ -13,6 +13,8 @@ These articles has been written carefully to bring attention to developments in 
 
 ## Further Information
 
+Visit our website at https://teamblockchain.net
+
 If a friend or colleague would like to have their own weekly edition of **Digital Bytes**, please use this link to subscribe:
 
 - https://digitalbytes.substack.com/
