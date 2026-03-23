@@ -7,7 +7,7 @@
 
 ## Synopsis
 
-This article has been written carefully to bring attention to developments in the **Blockchain** and **Digital Asset** sectors, but readers are recommended to take professional advice before taking any action based on any of the links and information above. TeamBlockchain Ltd does not take any responsibility for any action that may or may not be taken, loss or gain on receiving this article.
+These articles has been written carefully to bring attention to developments in the **Blockchain** and **Digital Asset** sectors, but readers are recommended to take professional advice before taking any action based on any of the links and information above. TeamBlockchain Ltd does not take any responsibility for any action that may or may not be taken, loss or gain on receiving this article.
 
 ---
 
