@@ -4,6 +4,7 @@ height="1.878261154855643in"}
 
 **Weekly Intelligence Brief 3rd April 2026**
 
+**This week, the shift toward programmable and tokenised finance accelerated markedly. Major institutions and central banks are no longer debating the future of money — they are actively building it. From BlackRock’s vision of tokenisation to real-world bank adoption and growing regulatory clarity, the infrastructure of global finance is evolving faster than most expected.**
 
 **[Larry Fink Declares Tokenisation Will Remake Capital Markets Like the
 Internet Remade
@@ -62,7 +63,7 @@ acquired by Mastercard highlights real use cases.
 
 [www.TeamBlockchain.net](http://www.TeamBlockchain.net)
 
-** To get more analysis on how blockchain technology digital assets and AI is impacting companies, economies and people go to (https://digitalbytes.substack.com)**
+**To get more analysis on how blockchain technology digital assets and AI is impacting companies, economies and people go to (https://digitalbytes.substack.com)**
 
 Top of Form
 
