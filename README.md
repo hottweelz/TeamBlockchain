@@ -3,23 +3,31 @@
   <img src="banner.jpg" alt="Digital Bytes Banner" width="100%">
 </p>
 
-# Digital Bytes – Article Title
+# Digital Bytes — Blockchain & Digital Assets Research
 
-## Synopsis
+Weekly research and analysis covering the **Blockchain** and **Digital Asset** sectors, produced by [TeamBlockchain Ltd](https://teamblockchain.net).
 
-These articles has been written carefully to bring attention to developments in the **Blockchain** and **Digital Asset** sectors, but readers are recommended to take professional advice before taking any action based on any of the links and information above. TeamBlockchain Ltd does not take any responsibility for any action that may or may not be taken, loss or gain on receiving this article.
+## About Digital Bytes
+
+Digital Bytes is a leading publication delivering in-depth analysis on fintech innovation, blockchain technology, digital assets, stablecoins, DeFi, CBDCs, tokenization, and cryptocurrency regulation. Each edition is carefully researched to bring attention to the most significant developments across the global digital asset landscape.
+
+> Readers are recommended to take professional advice before taking any action based on any of the information contained in these articles. TeamBlockchain Ltd does not accept responsibility for any action taken or loss or gain incurred as a result of receiving this content.
+
+---
+
+## Authors & Contributors
+
+**[Jonny Fry](https://www.linkedin.com/in/jonnyfry/)** — Co-founder of TeamBlockchain Ltd and lead author of Digital Bytes. Fintech strategist and blockchain thought leader with extensive experience in digital assets and financial markets.
+
+**[James Tylee](https://james.tyl.ee)** — Contributing author and co-host of the Digital Bytes Podcast. Fintech strategist with 30+ years of experience spanning Wall Street, broadcast media, and blockchain innovation. Certified Bitcoin Professional (CBP) and Certified Ethereum Professional (CEP) through the C4 Consortium. Connect on [LinkedIn](https://linkedin.com/in/jtylee).
 
 ---
 
 ## Further Information
 
-Visit our website at https://teamblockchain.net
-
-If a friend or colleague would like to have their own weekly edition of **Digital Bytes**, please use this link to subscribe:
-
-- https://digitalbytes.substack.com/
-
----
+- Website: [teamblockchain.net](https://teamblockchain.net)
+- James Tylee's site: [james.tyl.ee](https://james.tyl.ee)
+- Subscribe to Digital Bytes: [digitalbytes.substack.com](https://digitalbytes.substack.com/)
 
 ---
 
