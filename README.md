@@ -19,7 +19,7 @@ Digital Bytes is a leading publication delivering in-depth analysis on fintech i
 
 **[Jonny Fry](https://www.linkedin.com/in/jonnyfry/)** — Co-founder of TeamBlockchain Ltd and lead author of Digital Bytes. Fintech strategist and blockchain thought leader with extensive experience in digital assets and financial markets.
 
-**[James Tylee](https://james.tyl.ee)** — Contributing author and co-host of the Digital Bytes Podcast. Fintech strategist with 30+ years of experience spanning Wall Street, broadcast media, and blockchain innovation. Certified Bitcoin Professional (CBP) and Certified Ethereum Professional (CEP) through the C4 Consortium. Connect on [LinkedIn](https://linkedin.com/in/jtylee).
+**[James Tylee](https://james.tyl.ee)** — Contributing author and co-host of the Digital Bytes Podcast. Fintech strategist with 25+ years of experience spanning Wall Street, broadcast media, and blockchain innovation. Certified Bitcoin Professional (CBP) and Certified Ethereum Professional (CEP) through the C4 Consortium. Connect on [LinkedIn](https://linkedin.com/in/jtylee).
 
 ---
 
