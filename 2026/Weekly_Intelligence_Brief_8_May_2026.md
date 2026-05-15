@@ -1,0 +1,101 @@
+# Weekly Intelligence Brief – 8th May 2026
+
+## The Future Is Arriving
+
+## **The Return of Free Banking: Why US States & Cities Are About to Issue Their Own Stablecoins**
+
+In the 19th-century Free Banking Era, thousands of banks, railroads, and municipalities issued their own currencies. Today, that fragmented monetary system is being reborn through stablecoins. Wyoming has already fired the starting gun with its public stable token backed by Treasuries and cash equivalents. Other states and cities are watching closely.
+
+By issuing their own programmable stablecoins tied to local assets, real estate, infrastructure revenues, bonds, or utilities, governments can capture payment economics, reduce reliance on commercial banks, and create new revenue streams through micro-fees. Unlike the chaotic 1800s, blockchain offers instant verifiability, programmable rules, and real-time redemption.
+
+This could solve many historical problems while creating powerful new monetary layers.
+
+The real competition is no longer just crypto vs banks; it’s becoming local public money vs federal authority vs commercial bank infrastructure. The programmable money era may not result in one digital dollar, but thousands, as indeed the US had in 1860 when there were estimated to be 8,000 different banks issuing currencies in denominations from ½ cent to $20,000.
+
+---
+
+## **The Stablecoin Loophole: Why America Didn’t Ban Yield. It Redesigned It.**
+
+The latest draft of the CLARITY Act in the United States signals a pivotal shift in how regulators approach stablecoin economics, particularly around yield. While headlines suggest a ban, the reality is more nuanced.
+
+The legislation restricts passive yield, meaning users cannot earn returns simply by holding a stablecoin. However, it explicitly permits activity-based rewards tied to real usage, such as payments, lending, or participation within financial platforms. Crucially, these rewards can still be calculated based on balance and duration, effectively preserving many economic incentives under a different structure.
+
+With a Senate Banking Committee markup expected in May and a potential floor vote by early summer, the bill is moving quickly through the legislative process. If passed, it could reach the President’s desk within months.
+
+The outcome will likely shape the global standard, redefining how stablecoins compete with traditional deposits while remaining within regulatory boundaries.
+
+---
+
+## **FATF Warns: Stablecoins Are Now the Dominant Tool for Illicit Finance – P2P Transactions and Un-hosted Wallets Pose Growing Systemic Risk**
+
+The FATF’s March 2026 Targeted Report on Stablecoins and Un-hosted Wallets delivers a stark warning: stablecoins have become the preferred instrument for illicit actors, representing 84% of the $154 billion in illicit virtual asset transactions in 2025.
+
+Their price stability, high liquidity, and seamless cross-border functionality make them far more attractive than volatile cryptocurrencies like Bitcoin for money laundering, terrorist financing, sanctions evasion, and even weapons proliferation by groups such as DPRK’s Lazarus and Iranian actors.
+
+P2P transactions through un-hosted wallets represent a critical vulnerability, as they occur without any AML/CFT-obliged intermediary, allowing threat actors to layer, obscure, and move funds with minimal friction.
+
+With AI agents now executing larger value stablecoin transactions to reduce counterparty risk in autonomous commerce, the regulatory gap is widening. This makes professional legal oversight, proper KYC/AML processes, and structured escrow arrangements more important than ever for legitimate participants seeking to operate compliantly in the evolving digital asset economy.
+
+---
+
+## **Why Must Money Wait for Banks? Bailey’s Rethink Exposes the Stablecoin Choice Britain Still Refuses to Make**
+
+OMFIF argues that Andrew Bailey’s rethink of central bank independence is important because modern central banks now do far more than set interest rates, they shape financial stability, market plumbing, regulation, and economic resilience.
+
+The old model of independence was built for controlling inflation; today’s world demands institutions that can also navigate debt burdens, geopolitical shocks, fragmented trade, and technological disruption.
+
+Yet one critical step remains missing: enabling greater monetary competition and consumer choice through regulated alternatives such as stablecoins and tokenised payments.
+
+If banks remain the default gatekeepers of money movement, innovation slows, costs remain high, and legacy infrastructure persists. Properly supervised stablecoins could offer faster settlement, programmable payments, cross-border efficiency, and competitive pressure on incumbent banks.
+
+The real issue is not replacing banks but ending monopoly-style dependence on them. In a digital economy, central bank credibility may increasingly depend not only on independence from politics but openness to new forms of money and payments.
+
+---
+
+## **AI Is Learning to Spend Money: Banks Could Win the AI Race and Still Lose the Future of Payments**
+
+PYMNTS research shows financial services is leading enterprise AI adoption ahead of healthcare and media, with banks and insurers deploying AI across 27 business tasks versus 10 in healthcare and 16 in media.
+
+AI is already improving fraud detection, credit risk, forecasting, revenue controls, and operational efficiency. But that may be the warm-up act.
+
+The real disruption begins when AI agents start paying, shopping, negotiating contracts, moving liquidity, renewing subscriptions, and choosing the cheapest payment route in real time. That could transform commerce faster than most executives expect.
+
+Yet many banks still depend on expensive card rails, batch settlement, and closed systems built for humans, not machines. If AI becomes the buyer, payer, and treasurer, payments infrastructure must become instant, programmable, and always-on.
+
+So why have banks failed to embrace regulated stablecoins and alternative rails that offer lower costs, faster settlement, and more consumer choice?
+
+Finance may be leading today’s AI race while falling behind in tomorrow’s payments war.
+
+---
+
+## **FIS Says Agentic Commerce Needs Proof, Not Promises**
+
+FIS argues that agentic commerce is moving from hype to infrastructure, with AI agents increasingly expected to source, negotiate, and complete purchases on behalf of consumers.
+
+FIS’s Mladen Vladic argues that the biggest risk is not the agent itself, but weak integration between AI systems and the payment stack, especially when authorisation, authentication, and dispute processes sit in separate silos.
+
+He says governance must be designed into the transaction flow from the start, not layered on later.
+
+The piece also frames receipt-backed proof and machine-readable transaction records as essential for security, auditability, and compliance.
+
+FIS positions this as a practical requirement for banks and merchants that want to support autonomous buying without losing visibility or control.
+
+---
+
+## **When AI Becomes the Checkout: The First Glimpse of Autonomous Commerce**
+
+Mastercard and Rabobank have completed the first AI agent-initiated payment in the Netherlands, marking a pivotal step toward “agentic commerce,” where AI systems can independently execute transactions.
+
+In the pilot, a user prompted an AI assistant to find and book a coffee tasting experience, which the agent completed autonomously using Mastercard’s Agent Pay infrastructure.
+
+Crucially, the system preserved user control and security: the AI never accessed card details and operated within predefined permissions, with authentication handled through payment passkeys.
+
+This innovation eliminates the traditional checkout process, allowing transactions to occur entirely within AI environments such as chat interfaces.
+
+The development signals a broader shift in digital payments, where AI agents act as intermediaries between consumers and merchants. While the model promises efficiency and seamless user experiences, it also raises important questions around trust, authorisation, and accountability as financial decision-making increasingly moves from humans to autonomous systems.
+
+---
+
+Website: www.TeamBlockchain.net
+
+*The future is arriving faster than most expect.*
